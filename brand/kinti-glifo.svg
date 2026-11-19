@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 210"><title>Kinti glifo · Atlas Kinetix</title><defs><linearGradient id="gG" gradientUnits="userSpaceOnUse" x1="60" y1="60" x2="140" y2="140"><stop offset="0" stop-color="#B8F293"/><stop offset="1" stop-color="#5CBA89"/></linearGradient><linearGradient id="bG" gradientUnits="userSpaceOnUse" x1="30" y1="0" x2="170" y2="0"><stop offset="0" stop-color="#77EBFE"/><stop offset="1" stop-color="#1989CF"/></linearGradient></defs>
+      <polygon points="100,138 110,148 114,198 100,186 86,198 90,148" fill="#07294E"/>
+      <polygon points="100,88 170,158 145,183 100,138 55,183 30,158" fill="url(#bG)"/>
+      <polygon points="100,48 170,118 145,143 100,98 55,143 30,118" fill="url(#gG)"/>
+      <polygon points="100,16 114,30 100,44 86,30" fill="#07294E"/>
+      <line x1="108" y1="22" x2="128" y2="6" stroke="#07294E" stroke-width="5" stroke-linecap="round"/>
+      <circle cx="103" cy="28" r="2.6" fill="#FFFFFF"/>
+    </svg>
