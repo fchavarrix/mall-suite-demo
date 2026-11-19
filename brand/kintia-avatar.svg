@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="80 0 360 350"><title>KintIA</title><defs><linearGradient id="kBody" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#B8F293"/><stop offset="1" stop-color="#5CBA89"/></linearGradient><linearGradient id="kHead" x1="0" y1="0" x2=".6" y2="1"><stop offset="0" stop-color="#5CBA89"/><stop offset="1" stop-color="#1989CF"/></linearGradient><linearGradient id="kGorget" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#77EBFE"/><stop offset="1" stop-color="#1989CF"/></linearGradient><linearGradient id="kWing" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#77EBFE"/><stop offset="1" stop-color="#46A6F7"/></linearGradient><linearGradient id="kWingBack" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#46A6F7"/><stop offset="1" stop-color="#1989CF"/></linearGradient><linearGradient id="kTail" x1="1" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1989CF"/><stop offset="1" stop-color="#07294E"/></linearGradient></defs>
+      <path d="M232 182 C196 132 150 86 96 54 C156 64 222 104 262 166 Z" fill="url(#kWingBack)"/>
+      <path d="M186 254 L110 336 L146 300 L98 312 L174 240 Z" fill="url(#kTail)"/>
+      <path d="M246 134 C306 156 300 242 240 268 C214 280 190 272 174 252 C188 218 200 166 246 134 Z" fill="url(#kBody)"/>
+      <path d="M284 194 C288 232 264 258 230 266 C250 244 268 222 284 194 Z" fill="#B8F293" opacity=".75"/>
+      <circle cx="270" cy="140" r="40" fill="url(#kHead)"/>
+      <path d="M306 150 C304 178 284 196 254 192 C262 178 286 166 306 150 Z" fill="url(#kGorget)"/>
+      <path d="M304 128 L420 104 C425 104 425 110 420 111 L306 146 Z" fill="#07294E"/>
+      <circle cx="283" cy="130" r="13" fill="#FFFFFF"/>
+      <circle cx="286" cy="130" r="8" fill="#07294E"/>
+      <circle cx="289.5" cy="126" r="3" fill="#FFFFFF"/>
+      <path d="M236 184 C222 128 214 74 222 18 C248 66 274 126 270 178 Z" fill="url(#kWing)"/>
+      <path d="M240 162 L232 92 M252 166 L246 72 M262 170 L262 112" stroke="#FFFFFF" stroke-opacity=".5" stroke-width="3" stroke-linecap="round" fill="none"/>
+      <!-- Modo IA: destellos en la paleta del símbolo A -->
+      <path d="M372 22 C377.4 46.6 377.4 46.6 402 52 C377.4 57.4 377.4 57.4 372 82 C366.6 57.4 366.6 57.4 342 52 C366.6 46.6 366.6 46.6 372 22 Z" fill="#77EBFE"/><circle cx="372" cy="52" r="4.8" fill="#FFFFFF"/>
+      <path d="M420 134 C422.88 147.12 422.88 147.12 436 150 C422.88 152.88 422.88 152.88 420 166 C417.12 152.88 417.12 152.88 404 150 C417.12 147.12 417.12 147.12 420 134 Z" fill="#46A6F7"/>
+      <path d="M338 6 C340.16 15.84 340.16 15.84 350 18 C340.16 20.16 340.16 20.16 338 30 C335.84 20.16 335.84 20.16 326 18 C335.84 15.84 335.84 15.84 338 6 Z" fill="#1989CF"/>
+      <path d="M238 197 C240.7 209.3 240.7 209.3 253 212 C240.7 214.7 240.7 214.7 238 227 C235.3 214.7 235.3 214.7 223 212 C235.3 209.3 235.3 209.3 238 197 Z" fill="#FFFFFF"/>
+    </svg>
